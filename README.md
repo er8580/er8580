@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Elaina.
+- 👀 I’m interested in software development and pen testing.
+- 🌱 I’m currently learning GDScript and Kotlin.
+- 📫 How to reach me: email.
+- 😄 Pronouns: She/her
